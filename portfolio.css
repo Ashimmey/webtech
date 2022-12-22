@@ -1,0 +1,15 @@
+table{color:rebeccapurple;}
+p{color:red;
+    font-style: italic;
+    font-size: 20px;}
+h1:hover{color:black;
+    background-color: aquamarine;
+    width: 6cm;
+}
+h2{color:black;
+}
+h3{color:black;
+}
+body{color: crimson;
+    background-color:burlywood;      
+}
