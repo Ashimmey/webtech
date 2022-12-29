@@ -1,0 +1,80 @@
+.contain{
+    color: yellow;
+    background-color: darkblue;
+   width: 100%;
+   height: 780px;
+   display: flex;
+}
+#first{
+    
+    margin-left: 10%;
+    width: 60%;
+    height: 700px;
+    padding: 10px 10px;
+    
+}
+#img1{width: 800px;
+    height: 780px;
+    object-fit: cover;
+}
+h1{
+    text-align: center;
+   margin-bottom: 50px;
+    font-size: 35px;
+    border: 5px solid whitesmoke;
+    padding: 5%;
+    margin-top: 100px;
+}
+body{
+    background-color: black;
+}
+h3{
+     text-align: center;
+    margin-left: 50px;
+    font-size: larger;
+}
+.venue{
+     text-align: center;
+    margin-left: 50px;
+    margin-bottom: 70px;
+    font-size: large;
+}
+input[type="button"]{
+    font-size: 35px;
+    padding: 10px 10px;
+    background-color: bisque;
+    color: crimson;
+    font-weight: bolder;
+    border-radius: 50px;
+    margin-left: 30px;
+    
+    margin-bottom: auto;
+}
+input[type="button"]:hover{
+    background-color: aqua;
+}
+
+.second{
+    /* background-color: yellow; */
+}
+.sec{
+    /* background-color: yellow; */
+    text-align: center;
+    color: crimson;
+    height: 50px;
+    font-size: 45px;
+    display: flex;
+}
+#staff{
+    font-weight: bolder;
+    color: blueviolet;
+    font-size: 45px;
+}
+#sec1,#sec2,#sec3{
+    flex: 1;
+}
+#img2,#img3,#img4{
+    object-fit: fill;
+    height: 400px;
+    max-width: 250px;
+}
