@@ -6,12 +6,12 @@
    display: flex;
 }
 #first{
-    
+
     margin-left: 10%;
     width: 60%;
     height: 700px;
     padding: 10px 10px;
-    
+
 }
 #img1{width: 800px;
     height: 780px;
@@ -47,7 +47,7 @@ input[type="button"]{
     font-weight: bolder;
     border-radius: 50px;
     margin-left: 30px;
-    
+
     margin-bottom: auto;
 }
 input[type="button"]:hover{
@@ -77,4 +77,67 @@ input[type="button"]:hover{
     object-fit: fill;
     height: 400px;
     max-width: 250px;
+}
+#fifth{
+    color: blue;
+    background-color: gold;
+   width: 100%;
+   height: 780px;
+   display: flex;
+}
+.five{
+    margin-left: 20px;
+    width: 60%;
+    height: 700px;
+    padding: 10px 10px;
+    flex: 1;
+}
+#img7{
+    width: 800px;
+    height: 780px;
+    object-fit: cover;
+    flex: 1;
+}
+.contact{
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 70px;
+    font-size: 40px;
+}
+#h11{
+    text-align: center;
+   margin-bottom: 50px;
+    font-size: 40px;
+    border: 5px solid whitesmoke;
+    padding: 5%;
+    margin-top: 90px;
+}
+.third{
+    color: yellow;
+    background-color: darkblue;
+   width: 100%;
+   height: 780px;
+   display: flex;
+}
+.thrd{
+    flex: 1;
+}
+#list{
+    margin-left: 20px;
+    font-size: 40px;
+    flex: 1;
+}
+#img5{
+    width: 800px;
+    height: 780px;
+    object-fit: cover;
+    flex: 1;
+}
+#h3{
+    text-align: center;
+    margin-bottom: 80px;
+    font-size: 40px;
+    border: 5px solid whitesmoke;
+    padding: 5%;
+    margin-top: 90px;
 }
