@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: darkgreen;
+}
+.fourth{
+    display: flex;
+    background-color: darkcyan;
+    color: black;
+}
+.fouth{
+    flex: 1;
+    font-size: 30px;
+    padding-top: 100px;
+    padding-left: 100px;
+    width: 400px;
+}
+.fth{
+    flex: 1;
+    font-size: 18px;
+    padding: 140px 0px 0px 120px;
+    width: 30px;
+}
+.img{
+    width: 400px;
+}
+.img6{
+    text-align: center;
+}

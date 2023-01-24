@@ -1,0 +1,87 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    background-color: darkgreen;
+}
+.fourth{
+    display: flex;
+    background-color: darkcyan;
+    color: blueviolet;
+}
+ .fouth{
+    flex: 1;
+    font-size: 45px;
+    padding-top: 100px;
+    padding-left: 100px;
+    width: 400px;
+    text-align: center;
+ }
+ .fth{
+    flex: 1;
+    font-size: 35px;
+    padding: 140px 0px 0px 120px;
+    width: 30px;
+ }
+ .img6{
+    width: 400px;
+    text-align: center ;
+ }
+ *{
+    margin:0; 
+    padding: 0; 
+    background-color: aquamarine; 
+}  */
+/* .fourth{ 
+    display: flex; 
+    background-color: aquamarine; 
+    color: black; 
+} 
+.fouth{ 
+    flex: 1; 
+    font-size: 30px; 
+    color:black; 
+    padding-top: 100px; 
+    padding-left: 100px; 
+    width: 400px; 
+} 
+.fth{ 
+    flex: 1; 
+    font-size: 18px; 
+    color:black; 
+    padding: 140px 0px 0px 120px; 
+    width: 30px; 
+} 
+.img{ 
+    width:400px; 
+} 
+.img6{ 
+    text-align: center; 
+} */
+*{
+     margin:0; padding: 0; background-color: aquamarine;
+     } 
+.container{     
+    display: flex; 
+    background-color: aquamarine; color: black;
+ } 
+ .first{ 
+    flex: 1; 
+    font-size: 30px; 
+    color:black; 
+    padding-top: 100px; 
+    padding-left: 100px; 
+    width: 400px;
+ } 
+ .second{ 
+    flex: 1; 
+    font-size: 18px; 
+    color:black; 
+    padding: 140px 0px 0px 120px; 
+    width: 30px; 
+} 
+.img{ 
+    width:400px;
+ } 
+ .photo{ 
+    text-align: center; 
+}
